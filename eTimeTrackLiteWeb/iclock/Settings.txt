@@ -1,0 +1,6 @@
+MS SQL Server
+localhost
+eTimetracklite1
+Sql Server Authentication
+sa
+j+/+hQHZ/2w=

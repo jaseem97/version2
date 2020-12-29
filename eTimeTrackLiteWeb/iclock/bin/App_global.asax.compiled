@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/eTimeTrackWeb/global.asax" hash="ffffffffe55e77cf" filehash="266f624eb3c5" flags="150000" assembly="eTimeTrackWeb_deploy" type="ASP.global_asax">
+  <filedeps>
+    <filedep name="/eTimeTrackWeb/global.asax" />
+  </filedeps>
+</preserve>
